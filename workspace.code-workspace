@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../github/libevent"
+		},
+		{
+			"path": "../github/grpc/examples"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
